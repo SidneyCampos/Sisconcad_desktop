@@ -1,0 +1,12 @@
+C:\Users\sidne\source\repos\Sisconcad\bin\Debug\Sisconcad.exe.config
+C:\Users\sidne\source\repos\Sisconcad\bin\Debug\Sisconcad.exe
+C:\Users\sidne\source\repos\Sisconcad\bin\Debug\Sisconcad.pdb
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.csproj.AssemblyReference.cache
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.csproj.SuggestedBindingRedirects.cache
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.FormPrincipal.resources
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.Properties.Resources.resources
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.csproj.GenerateResource.cache
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.csproj.CoreCompileInputs.cache
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.exe
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.pdb
+C:\Users\sidne\source\repos\Sisconcad\obj\Debug\Sisconcad.FormPacientes.resources
